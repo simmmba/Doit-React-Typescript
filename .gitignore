@@ -2,9 +2,6 @@
 
 # dependencies
 node_modules
-# /ch01/ch01_5/node_modules
-# /ch02/ch02_1/node_modules
-# /ch02/ch02_2/node_modules
 .pnp
 .pnp.js
 
