@@ -50,8 +50,9 @@ const P: FC<PropsWithChildren<PProps>> = props => {
 export default P
 ```
 
-<br /><br />
+<br />
 
 ### \* JSX {...props} 구문
 
 - props에 담긴 다양한 속성을 Typescript의 spread operator (전개 연산자) 처럼 한꺼번에 전달
+  <br /><br />
