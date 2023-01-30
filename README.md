@@ -12,3 +12,4 @@
   - [ch02_2](ch02/ch02_2/) : JSX <br />
   - [ch02_3](ch02/ch02_3/) : Component <br />
   - [ch02_4](ch02/ch02_4/) : key, children property<br />
+  - [ch02_5](ch02/ch02_5/) : event property<br />
